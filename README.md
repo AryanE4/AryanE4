@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryan1e4" target="blank"><img src="https://img.shields.io/twitter/follow/aryan1e4?logo=twitter&style=for-the-badge" alt="aryan1e4" /></a> </p>
 
-- 🔭 I’m currently working on wordcountleague.vercel.app
+- 🔭 I’m currently working on **wordcountleague.vercel.app**
 
 - 🌱 I’m currently learning **Redis**
 
