@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi , I'm Aryan Sharma</h1>
+<h3 align="center">I like to debug and fix AI Slop</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryane4" alt="aryane4" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aryan1e4" target="blank"><img src="https://img.shields.io/twitter/follow/aryan1e4?logo=twitter&style=for-the-badge" alt="aryan1e4" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on wordcountleague.vercel.app
 
-- 🌱 I’m currently learning **nodeJS,expressJS**
+- 🌱 I’m currently learning **Redis**
 
-- 💬 Ask me about **react, js**
+- 💬 Ask me about **my Projects**
 
 - 📫 How to reach me **aryansharmabtech.2023@gmail.com**
 
